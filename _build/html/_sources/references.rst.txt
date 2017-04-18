@@ -1,47 +1,42 @@
 References
 ==========
 
-Budhendra L. Bhaduri
---------------------
+**Budhendra L. Bhaduri**
 
-**Group Leader, Geographic Information Science and Technology**
+Group Leader, Geographic Information Science and Technology
 
-**Oak Ridge National Laboratory**
+Oak Ridge National Laboratory
 
-**(865) 241-9272 | bhaduribl@ornl.gov**
+(865) 241-9272 | bhaduribl@ornl.gov
 
-Jacob J. McKee
---------------
+**Jacob J. McKee**
 
-**Research Scientist**
+Research Scientist
 
-**Oak Ridge National Laboratory**
+Oak Ridge National Laboratory
 
-**(865) 576-9490 | mckeejj@ornl.gov**
+(865) 576-9490 | mckeejj@ornl.gov
 
-Jessica J. Moehl
-----------------
+**Jessica J. Moehl**
 
-**Research Scientist/Spatial Modeler**
+Research Scientist/Spatial Modeler
 
-**Oak Ridge National Laboratory**
+Oak Ridge National Laboratory
 
-**(865) 241-2604 | moehljj@ornl.gov**
+(865) 241-2604 | moehljj@ornl.gov
 
-David L. Page
--------------
+**David L. Page**
 
-**Image Scientist**
+Image Scientist
 
-**Oak Ridge National Laboratory**
+Oak Ridge National Laboratory
 
-**(865) 576-2578 | pagedl@ornl.gov**
+(865) 576-2578 | pagedl@ornl.gov
 
-Mike Wilson
------------
+**Mike Wilson**
 
-**GIS Director**
+GIS Director
 
-**Austin Peay State University GIS Center**
+Austin Peay State University GIS Center
 
-**(931) 221-7500 | wilsonm@apsu.edu**
+(931) 221-7500 | wilsonm@apsu.edu
