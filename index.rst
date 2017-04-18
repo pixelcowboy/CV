@@ -14,7 +14,6 @@ Welcome to Jared Cleghorn's Curriculum Vitae!
    publications
    honorsandawards
    references
-   projects
 
 Indices and tables
 ==================
