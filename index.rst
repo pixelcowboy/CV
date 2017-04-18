@@ -5,14 +5,15 @@
 
 Welcome to Jared Cleghorn's Curriculum Vitae!
 =============================================
-These are words I typed in index.rst
-
-Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
 
    education
+   experience
+   publications
+   honorsandawards
+   references
    projects
 
 Indices and tables
