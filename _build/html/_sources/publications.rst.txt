@@ -21,13 +21,13 @@ Solo Exhibitions
 Group Exhibitions
 -----------------
 
-2011 | *7thPhotographic Image Biennial*, East Carolina University, Greenville, NC
+2011 | *7th Photographic Image Biennial*, East Carolina University, Greenville, NC
 
 
 2010 | *Photography*, The Frame Maker, Clarksville,TN
 
 
-2010 | *Positive/Negative* 25,Slocumb Gallery, Johnson City, TN
+2010 | *Positive/Negative 25*, Slocumb Gallery, Johnson City, TN
 
 
 2009 | *Twitterpated*, The Front Page Deli, Clarksville, TN
