@@ -1,8 +1,7 @@
 Honors and Awards
 =================
 
-2014 | **Summer Undergraduate Research Fellowship**, Austin Peay State University.
-------------------------------------------------------------------------------
+2014 | **Summer Undergraduate Research Fellowship**, Austin Peay State University.----------------------------------------------------------------------------------
 
 2009 | **Best of Show**, Us Bank Open Exhibition, Downtown Artist Coop.
 -----------------------------------------------------------------------
